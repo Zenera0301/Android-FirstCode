@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/DifferenceofTouchClick" />
+            <option value="$PROJECT_DIR$/Imageviewdemo" />
+            <option value="$PROJECT_DIR$/MyView" />
+            <option value="$PROJECT_DIR$/WeChatTab" />
+            <option value="$PROJECT_DIR$/WeChatdemo" />
+            <option value="$PROJECT_DIR$/activitydemo" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/bottomsimpledemo" />
+            <option value="$PROJECT_DIR$/bundleExchangeData" />
+            <option value="$PROJECT_DIR$/buttonMultiple" />
+            <option value="$PROJECT_DIR$/buttonPicturedemo" />
+            <option value="$PROJECT_DIR$/buttonsigledemo" />
+            <option value="$PROJECT_DIR$/centershowwords" />
+            <option value="$PROJECT_DIR$/chronometerdemo" />
+            <option value="$PROJECT_DIR$/createGesture" />
+            <option value="$PROJECT_DIR$/databasedemo" />
+            <option value="$PROJECT_DIR$/datepicker" />
+            <option value="$PROJECT_DIR$/drawbaledemo" />
+            <option value="$PROJECT_DIR$/drawdemo" />
+            <option value="$PROJECT_DIR$/edittextdemo" />
+            <option value="$PROJECT_DIR$/forgetPassword" />
+            <option value="$PROJECT_DIR$/forgetpwd" />
+            <option value="$PROJECT_DIR$/fragmentdemo" />
+            <option value="$PROJECT_DIR$/framelayoutdemo" />
+            <option value="$PROJECT_DIR$/gestureDetectordemo" />
+            <option value="$PROJECT_DIR$/gridlayoutdemo" />
+            <option value="$PROJECT_DIR$/gridviewdemo" />
+            <option value="$PROJECT_DIR$/imageswitcher" />
+            <option value="$PROJECT_DIR$/informdemo" />
+            <option value="$PROJECT_DIR$/intent2demo" />
+            <option value="$PROJECT_DIR$/intentdemo" />
+            <option value="$PROJECT_DIR$/javalayout" />
+            <option value="$PROJECT_DIR$/jindutiao" />
+            <option value="$PROJECT_DIR$/linearlayoutdemo" />
+            <option value="$PROJECT_DIR$/listviewdemo" />
+            <option value="$PROJECT_DIR$/onlisten1demo" />
+            <option value="$PROJECT_DIR$/onlisten2demo" />
+            <option value="$PROJECT_DIR$/ratingBardemo" />
+            <option value="$PROJECT_DIR$/relativelayoutdemo" />
+            <option value="$PROJECT_DIR$/resourcedemo" />
+            <option value="$PROJECT_DIR$/scrolview" />
+            <option value="$PROJECT_DIR$/seekbardemo" />
+            <option value="$PROJECT_DIR$/softwareupdate" />
+            <option value="$PROJECT_DIR$/spinnerdemo" />
+            <option value="$PROJECT_DIR$/startActivityForResultdemo" />
+            <option value="$PROJECT_DIR$/tabHostDowndemo" />
+            <option value="$PROJECT_DIR$/tabhostdemo" />
+            <option value="$PROJECT_DIR$/tablelayoutdemo" />
+            <option value="$PROJECT_DIR$/textviewdemo" />
+            <option value="$PROJECT_DIR$/timepicker" />
+            <option value="$PROJECT_DIR$/xmljavalayout" />
+            <option value="$PROJECT_DIR$/xmllayout" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

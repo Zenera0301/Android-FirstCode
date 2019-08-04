@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="imageView">50dp</dimen>
+    <dimen name="imageView_layout_marginTop">30dp</dimen>
+    <dimen name="button_height">40dp</dimen>
+    <dimen name="textView_marginTop">20dp</dimen>
+
+    <dimen name="style_title">20sp</dimen>
+    <dimen name="margin">10dp</dimen>
+    <dimen name="margin_top">50dp</dimen>
+    <dimen name="text_margin_top">30dp</dimen>
+</resources>

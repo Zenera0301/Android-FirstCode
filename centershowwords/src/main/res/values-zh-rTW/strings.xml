@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">在九宫格内居中显示文字</string>
+    <string name="textView1">拍照</string>
+    <string name="textView2">處理</string>
+    <string name="textView3">上傳</string>
+    <string name="textView4">下載</string>
+    <string name="textView5">信息</string>
+    <string name="textView6">退出</string>
+    <string name="textView7">設置</string>
+    <string name="textView8">介紹</string>
+    <string name="textView9">聯繫我們</string>
+</resources>
